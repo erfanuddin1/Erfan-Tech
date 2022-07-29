@@ -45,44 +45,45 @@
 }
 
 /* style-for-review-section-start-here */
-/* #review-section {
+#review-section {
     margin-bottom: 80px;
-} */
+}
 
-/* .fa-solid,
+.fa-solid,
 .fa-star-half {
     color: rgb(253, 188, 22);
-} */
+}
 
 /* style-for-question-section-start-here */
-/* #question-section {
+#question-section {
     margin-bottom: 70px;
-} */
+}
 
 /* style-for-company-section-start-here */
-/* #company-section {
+#company-section {
     margin-bottom: 90px;
-} */
+}
 
-/* .company-name img {
+.company-name img {
     width: 100px;
-} */
+}
 
 /* style-for-footer-section-start-here */
-/* .social-icon a {
+.social-icon a {
     color: white;
     font-size: 28px;
     margin: 0 20px;
-} */
-/* .fa-brands:hover {
+}
+
+.fa-brands:hover {
     transform: translateY(-5px);
     transition: transform 0.2s ease-out;
-} */
+}
 
-/* .footer-hr {
+.footer-hr {
     width: 2px;
     height: 15px;
     margin: auto 8px;
-} */
+}
 
 /*-------------- comment end------------------ */
