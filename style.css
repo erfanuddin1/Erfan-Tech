@@ -1,33 +1,33 @@
 /* ------------- comment start----------  */
 /* style-for-carousel-start-here */
-/* .carousel-item img {
+.carousel-item img {
     height: 80vh;
     object-fit: cover;
-} */
+}
 
-/* .carousel-caption {
+.carousel-caption {
     position: absolute;
     left: 50%;
     top: 50%;
     transform: translate(-50%, -50%);
     height: auto;
-} */
+}
 
-/* .carousel-control-prev-icon,
+.carousel-control-prev-icon,
 .carousel-control-next-icon {
     width: 3rem;
     height: 3rem;
-} */
+}
 
 /* style-for-carousel-end-here */
 /* style-for-course-start-here */
-/* #courses-section {
+#courses-section {
     margin: 90px 0;
-} */
+}
 
-/* .course-text>div {
+.course-text>div {
     padding: 0 200px;
-} */
+}
 
 /* style-for-course-ends-here */
 /* style-for-ready-section-start-here */
@@ -74,7 +74,6 @@
     font-size: 28px;
     margin: 0 20px;
 } */
-
 /* .fa-brands:hover {
     transform: translateY(-5px);
     transition: transform 0.2s ease-out;
@@ -85,4 +84,5 @@
     height: 15px;
     margin: auto 8px;
 } */
+
 /*-------------- comment end------------------ */
